@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    -webkit-overflow-scrolling: touch;
+    overflow-y: scroll;
+    font-family: Arial, sans-serif; /* Указание семейства шрифтов */
+    font-size: 16px; /* Указание размера текста */
+}
+
+.content {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 20px;
+}
+
+p {
+    line-height: 1.5;
+}
+
+h1 {
+    font-size: 28px; /* Указание размера текста для заголовка h1 */
+}
+
+a {
+    color: #349bdf; /* Указание цвета текста для элемента <a> */
+    text-decoration: none; /* Убираем подчеркивание у элемента <a> */
+}
